@@ -1,7 +1,11 @@
 
 <div align="center">
-  <br />
-  <img src="https://i.ibb.co/YbFzxtP/BestBytes-Screenshot.png" alt="BestBytes Screenshot" width="600" />
+    <br />
+
+![BBgif](https://github.com/user-attachments/assets/729b1a58-7248-449c-8a5e-163020f11cae)
+
+
+
   <br />
 
   <div>
