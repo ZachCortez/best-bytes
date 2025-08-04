@@ -121,6 +121,14 @@ best-bytes/
 ├── package.json           # Project dependencies and scripts
 └── README.md              # Project overview and documentation
 ```
+</br>
+
+
+![BestBytesGif2](https://github.com/user-attachments/assets/1330b7c3-4894-4d62-9d81-d03e4a8bd92a)
+
+
+
+</br>
 
 ---
 
