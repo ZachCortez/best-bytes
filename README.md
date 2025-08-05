@@ -4,7 +4,6 @@
 ![webptogif-net](https://github.com/user-attachments/assets/73972f6a-58ea-4f53-82a6-db63d3cdc3c3)
 
 
-
   <br />
 
   <div>
@@ -121,11 +120,6 @@ best-bytes/
 ├── package.json           # Project dependencies and scripts
 └── README.md              # Project overview and documentation
 ```
-</br>
-
-![3dgifmaker49381](https://github.com/user-attachments/assets/baabcc83-b2d6-4fc6-ab0d-af1569c6e596)
-
-</br>
 
 
 
