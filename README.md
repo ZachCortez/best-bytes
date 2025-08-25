@@ -120,10 +120,6 @@ best-bytes/
 ├── package.json           # Project dependencies and scripts
 └── README.md              # Project overview and documentation
 ```
-
-
-
-
 ---
 
 ## <a name="license">📜 License</a>
