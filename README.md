@@ -1,7 +1,10 @@
-
 <div align="center">
-  <br />
-  <img src="https://i.ibb.co/YbFzxtP/BestBytes-Screenshot.png" alt="BestBytes Screenshot" width="600" />
+    <br />
+
+![BBgif](https://github.com/user-attachments/assets/729b1a58-7248-449c-8a5e-163020f11cae)
+
+
+
   <br />
 
   <div>
@@ -19,12 +22,12 @@
 
 ## 📚 Table of Contents
 
-1. [Introduction](#introduction)  
-2. [Tech Stack](#tech-stack)  
-3. [Features](#features)  
-4. [Quick Start](#quick-start)  
-5. [Project Structure](#project-structure)  
-6. [License](#license)  
+1. [Introduction](#introduction)
+2. [Tech Stack](#tech-stack)
+3. [Features](#features)
+4. [Quick Start](#quick-start)
+5. [Project Structure](#project-structure)
+6. [License](#license)
 
 ---
 
@@ -36,24 +39,24 @@ Best Bytes is an innovative recipe uploader and extractor app that uses OCR to r
 
 ## <a name="tech-stack">🛠 Tech Stack</a>
 
-- **[Next.js](https://nextjs.org/)** — React framework for production-ready server-side rendering and static site generation.  
-- **[React](https://reactjs.org/)** — Frontend UI library for building interactive user interfaces.  
-- **[TypeScript](https://www.typescriptlang.org/)** — Adds static typing to JavaScript for improved developer experience and maintainability.  
-- **[Tailwind CSS](https://tailwindcss.com/)** — Utility-first CSS framework for rapid UI development.  
-- **[OpenAI API](https://platform.openai.com/)** — AI service powering recipe formatting and enhancements.  
-- **[Tesseract.js](https://github.com/naptha/tesseract.js)** — JavaScript OCR library to extract text from images on the client side.  
+- **[Next.js](https://nextjs.org/)** — React framework for production-ready server-side rendering and static site generation.
+- **[React](https://reactjs.org/)** — Frontend UI library for building interactive user interfaces.
+- **[TypeScript](https://www.typescriptlang.org/)** — Adds static typing to JavaScript for improved developer experience and maintainability.
+- **[Tailwind CSS](https://tailwindcss.com/)** — Utility-first CSS framework for rapid UI development.
+- **[OpenAI API](https://platform.openai.com/)** — AI service powering recipe formatting and enhancements.
+- **[Tesseract.js](https://github.com/naptha/tesseract.js)** — JavaScript OCR library to extract text from images on the client side.
 - **[ShadCN UI](https://ui.shadcn.com/)** — Component library for accessible, customizable UI components.
 
 ---
 
 ## <a name="features">⚡ Features</a>
 
-- 🖼️ Upload images of recipes and preview before processing.  
-- 🔍 Client-side OCR extraction of text from uploaded images.  
-- 🤖 AI-powered formatting of recipes using OpenAI GPT models.  
-- 🌗 Smooth dark/light mode toggle with purple theming and glowing UI effects.  
-- ✨ Interactive UI with floating, cursor-tracking headers and 3D glowing cards.  
-- 🚀 Responsive design optimized for all screen sizes and devices.  
+- 🖼️ Upload images of recipes and preview before processing.
+- 🔍 Client-side OCR extraction of text from uploaded images.
+- 🤖 AI-powered formatting of recipes using OpenAI GPT models.
+- 🌗 Smooth dark/light mode toggle with purple theming and glowing UI effects.
+- ✨ Interactive UI with floating, cursor-tracking headers and 3D glowing cards.
+- 🚀 Responsive design optimized for all screen sizes and devices.
 
 ---
 
@@ -63,9 +66,9 @@ Best Bytes is an innovative recipe uploader and extractor app that uses OCR to r
 
 Make sure you have:
 
-- [Git](https://git-scm.com/)  
-- [Node.js](https://nodejs.org/en) (v16+)  
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)  
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en) (v16+)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
 ### Clone the repository
 

@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "🍽️Best Bytes | SaturnBay",
   description: "Digitize your family recipes with AI & OCR",
+    icons: {
+      icon: "/favicon.png",
+    }
 };
 
 export default function RootLayout({
