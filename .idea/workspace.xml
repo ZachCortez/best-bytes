@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e16e39b3-89cb-4d41-9749-1fef3a9e801a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/api/generate-recipe/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/gpt/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FloatingHeading.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/GlowCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RecipeViewer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UploadRecipe.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/gpt.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/ocr.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/api/generate-recipe/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/generate-recipe/route.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UploadRecipe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UploadRecipe.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +31,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/zachc/Desktop/best-bytes&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zachc/Desktop/best-bytes/public&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -51,6 +41,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zachc\Desktop\best-bytes\public" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,7 +61,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754333598061</updated>
-      <workItem from="1754333601302" duration="11256000" />
+      <workItem from="1754333601302" duration="11909000" />
+      <workItem from="1754346007857" duration="1358000" />
+      <workItem from="1754400861459" duration="9200000" />
+      <workItem from="1755141568569" duration="274000" />
+      <workItem from="1755143667359" duration="400000" />
+      <workItem from="1755617356758" duration="13000" />
+      <workItem from="1755617406656" duration="664000" />
+      <workItem from="1756480455682" duration="518000" />
+      <workItem from="1756481436334" duration="868000" />
+      <workItem from="1756482526742" duration="677000" />
+      <workItem from="1756483310569" duration="320000" />
     </task>
     <servers />
   </component>

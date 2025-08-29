@@ -33,11 +33,13 @@ export async function POST(req: Request) {
         const recipe = completion.choices[0]?.message?.content || "";
 
         return NextResponse.json({ recipe });
-    } catch (error: any) {
+
+    } catch (error: unknown) {
         console.error("API Error:", error);
         return NextResponse.json(
-            { error: "Failed to generate recipe" },
+            { error: error instanceof Error ? error.message : "Failed to generate recipe" },
             { status: 500 }
         );
     }
+
 }

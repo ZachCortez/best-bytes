@@ -1,5 +1,5 @@
 "use client";
-
+import Image from "next/image";
 import { useState } from "react";
 import { extractTextFromImage } from "@/lib/ocr";
 import { getFormattedRecipe } from "@/lib/gpt";
@@ -43,7 +43,7 @@ export default function UploadRecipe({ onRecipeGenerated }: Props) {
         <Card className="p-6 space-y-4 bg-glass backdrop-blur-xl border border-white/20 rounded-2xl shadow-lg">
             <Input type="file" accept="image/*" onChange={handleFileChange} />
             {previewUrl && (
-                <img
+                <Image
                     src={previewUrl}
                     alt="Preview"
                     className="w-full max-h-64 object-contain rounded-lg"

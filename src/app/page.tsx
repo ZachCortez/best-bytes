@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from "react";
 import UploadRecipe from "@/components/UploadRecipe";
-import { Card } from "@/components/ui/card";
 import GlowCard from "@/components/GlowCard";
 
 export default function Home() {
